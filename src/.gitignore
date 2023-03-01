@@ -1,0 +1,46 @@
+# Compiled source #
+###################
+*.o
+*.pyc
+*.py~
+corona3d_2020
+../*.o
+../*.py~
+
+# Runtime I/O files for models #
+#####################################
+output/*.out
+output/*/
+output/*/*.out
+
+# Python scripts
+################
+#*.py
+
+# Outputs from analysis/plotting scripts
+########################################
+output/*.pdf
+output/*.png
+output/*.pptx
+output/*.csv
+output/*.csv~
+*.pdf
+*.svg
+*.png
+#*.xlsx
+#*.csv
+#*.txt
+*.txt~
+
+
+../collider2.o
+
+# other #
+######################
+../.DS_Store
+.DS_Store
+Distribution_Hot_H_copy.cpp
+o2plus_dr_rates.dat
+
+*#
+
