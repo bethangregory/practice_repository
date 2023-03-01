@@ -3,6 +3,7 @@ multiple particle types with a variety of initial distribution options and backg
 species profiles. See the sample 'corona3d_2020.cfg' file under the 'src' folder for
 details on the currently available configuration parameter options.
 
+Making some changes for practice.
 **********************
 ** QUICKSTART GUIDE **
 **********************
