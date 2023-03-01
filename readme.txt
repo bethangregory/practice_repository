@@ -1,3 +1,4 @@
+Hello!
 corona3d_2020 aims to be a flexible planetary exosphere modeling program, able to handle
 multiple particle types with a variety of initial distribution options and background
 species profiles. See the sample 'corona3d_2020.cfg' file under the 'src' folder for
